@@ -1,0 +1,5 @@
+O objetivo do HTML é pegar uma página web e marcar ela inteira. O que é título? O que é imagem? O que é parágrafo?
+
+o h do <h1> é heading.
+
+alt é a propriedade que vai dentro da tag <img> e serve como texto alternativo da imagem para leitores de tela ou mesmo se houver uma quebra da página. 
