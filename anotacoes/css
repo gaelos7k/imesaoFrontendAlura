@@ -1,1 +1,7 @@
-Css é uma linguagem de estilização.
+Css (cascade style sheets) é uma linguagem de estilização.
+
+Sempre que for acessar algo novo, abra a documentação. Como a W3C School.
+
+Para chamar o Css, usar uma tag <link> visto que no Css é muito melhor editar um arquivo externo.
+
+<link rel="stylesheet" href="style.css"> rel indica a relação do documento que vai ser traziado e em seguida colocado onde está a folhad e estilo.
