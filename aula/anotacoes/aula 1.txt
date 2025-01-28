@@ -1,0 +1,24 @@
+HTML = esqueleto
+CSS = corpo
+Javascript = cérebro
+
+arquitetura de pasta vem ao longo do projeto. Organizar o código de um jeito melhor. 
+
+da para só escrever a tag que queremos e dar tab para escrever o código de maneira mais rápida.
+
+Semantica é quando a tag diz a função dela. Como a tag button claramente faz um botao na pagina.
+
+<a> vai fazer um gancho que se clicar na imagem vai ser direcionado para um link.
+
+padding: 16px 0 0 16px; === ordem dos pixels === cima, direita, baixo e esquerda
+
+padding: 12px; com um valor estamos declarando que todos os lados terão o mesmo espaçamento.
+
+.logo img {
+ 	estou falando para o CSS que a tag imagem que esta dentro da classe .logo que será alterado, sendo somente a tag img iria alterar todas as imagens do site   
+}
+
+.sidebar ul li {
+    padding: 10px 0;
+	com dois valores eu estou falando para o css que o primeiro é em cima e baixo e o segundo direita e esquerda.
+}
