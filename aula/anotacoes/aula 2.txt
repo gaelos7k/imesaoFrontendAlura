@@ -1,1 +1,6 @@
 Pesquisar e se atentar a padrões de boa escrita de CSS
+
+***EU FIZ MUITAS ANOTACOES NO DECORRER DA AULA POREM O PC ATUALIZOU SOZINHO E ACABEI PERDENDO, POREM O CODIGO EM SI ESTA TODO SALVO***
+
+
+border: 1px solid #878787; shortrange === varias propriedas para um elemento.
