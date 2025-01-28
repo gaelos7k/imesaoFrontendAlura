@@ -1,0 +1,1 @@
+Pesquisar e se atentar a padrões de boa escrita de CSS
