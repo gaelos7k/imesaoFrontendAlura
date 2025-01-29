@@ -1,0 +1,15 @@
+Hoje vamos estruturar o projeto para ele ficar melhor organizado.
+
+:root{
+    /* FONT */
+    --font-dm-sans: 'DM Sans', sans-serif;
+}
+
+é o que chamamos de css variables, é como declarar um váriavel que será chamada.
+
+font-family: var(--font-dm-sans);
+carregando a variavel css
+
+usar variaveis no css é relativamente novo.
+
+o código do footer simplesmente tive que pegar e colcoar por que eles não ensinaram a fazer, como esse é meu primeiro contato profundo com css não entendo muito.
