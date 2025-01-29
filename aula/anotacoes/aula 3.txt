@@ -13,3 +13,12 @@ carregando a variavel css
 usar variaveis no css é relativamente novo.
 
 o código do footer simplesmente tive que pegar e colcoar por que eles não ensinaram a fazer, como esse é meu primeiro contato profundo com css não entendo muito.
+
+<input type="text"> tag que deixa escrever no HTML5
+
+ID usado para um elemento para estilizar
+class pode ser para mais de um elementom para estilizar
+
+<input id= 'search-input' type="text" maxlength="800" placeholder="O que você quer ouvir?"/>
+
+diz onde o usuario vai digitar, da uma id, fala que vai ser texto, que pode ter ate 800 caracteres e que antes do usuario digitar vai ter escrito o que voce quer ouvir.
